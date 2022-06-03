@@ -26,10 +26,10 @@
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "Teste",
+      "name": "Teste222",
       "price": "19,90",
       "description": "Muito foda",
-      "available": true,
+      "available": false,
       "id": 4
     }
   ]
